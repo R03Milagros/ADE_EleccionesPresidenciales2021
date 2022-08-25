@@ -75,7 +75,7 @@ Los primeros resultados según [IPSOS](https://www.ipsos.com/es-es) demostro que
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaIzquierda.jpg)
 
 * Tabla de resultados por departamentos que apoyaron más a un partido de izquierda
-![DPIP]()
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaPeruIzquierda1.jpg)
 
 
 Según los datos observados en la tabla y mapa cloroplético, los partidos que obtuvieron mas apoyo fueron los siguientes.
@@ -90,7 +90,7 @@ Según los datos observados en la tabla y mapa cloroplético, los partidos que o
 
 ##### RESULTADOS EN EL EXTRANJERO POR IZQUIERDA 
 * Tabla de resultados por país que apoyaron más a un partido de izquierda
-![DPIP]()
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaExtranjeroIzquierda.jpg)
 
 Según los datos observados en la tabla y el grafico de barras, los partidos que obtuvieron mas apoyo en votos en el estranjero fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
@@ -114,7 +114,7 @@ En resumen, el ranking final para los partidos de izquierda.
 
 
 * Tabla de resultados por departamentos que apoyaron más a un partido de derecha
-![TABLA]()
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaPeruDerecha.jpg)
 
 Según los datos observados en el mapa cloroplético y la tabla, los partidos que obtuvieron mas apoyo fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
@@ -130,7 +130,7 @@ Según los datos observados en el mapa cloroplético y la tabla, los partidos qu
 
 ##### RESULTADOS EN EL EXTRANJERO POR DERECHA 
 * Tabla de resultados por país que apoyaron más a un partido de izquierda
-![TABLA]()
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaExtranjeroDerecha.jpg)
 
 Según los datos observados en la tabla, los partidos que obtuvieron mas apoyo en el extranjero fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
