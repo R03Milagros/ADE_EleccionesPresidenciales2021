@@ -70,7 +70,7 @@ De acuerdo con el artículo 17° de la Ley Orgánica de Elecciones, para ser ele
 -	Votos Inpugnados
 
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR IZQUIERDA
-![MAPA DEL PERU](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaIzquierda.jpgg)
+![MAPA DEL PERU](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaIzquierda.jpg)
 
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ IZQUIERDA
 
