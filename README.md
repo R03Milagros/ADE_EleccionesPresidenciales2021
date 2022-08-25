@@ -3,8 +3,11 @@ Análisis de los datos obtenidos sobre las elecciones presidenciales.
 
 ## Tabla de contenido
 
-- [INTRODUCCIÓN](#INTRODUCCIÓN).
-- [ONPE](#ONPE).
+- [INTRODUCCIÓN](#INTRODUCCIÓN)
+- [ONPE](#ONPE)
+- [OBTENCIÓN DE DATOS](#OBTENCIÓN-DE-DATOS)
+- [RESUMEN DE LOS DATOS EN LA PRIMERA VUELTA](#RESUMEN-DE-LOS-DATOS-EN-LA-PRIMERA-VUELTA)
+- [RESUMEN DE LOS DATOS EN LA SEGUNDA VUELTA](#RESUMEN-DE-LOS-DATOS-EN-LA-SEGUNDA-VUELTA)
 
 ### INTRODUCCIÓN
 En el 2021 se realizó la máxima representación de la democracia en el Perú, las elecciones presidenciales, los medios de comunicación nos mostró los resultados de manera simplificada, por lo tanto, buscamos analizar a profundidad el desarrollo de este proceso y así determinar los posibles argumentos del porqué de estos resultados.
@@ -26,10 +29,49 @@ Es un organismo electoral constitucional autónomo que forma parte del Estado, e
 
 #### OBTENCIÓN DE DATOS
 Los datos fueron obtenidos en las siguientes páginas web:
-- [ONPE](https://www.onpe.gob.pe)
-- ONPE: https://www.onpe.gob.pe
-- DATOS ABIERTOS(gob.pe): https://www.datosabiertos.gob.pe/?query=ELECCIONES%20PRESIDENCIALES%202021&sort_by=changed&sort_order=DESC
-- INEI: https://m.inei.gob.pe/estadisticas/indice-tematico/sociales/
+[ONPE](https://www.onpe.gob.pe)
+Conocer más sobre el proceso de las elecciones y correcta manipulación de los datos.
+[DATOS ABIERTOS(gob.pe)](https://www.datosabiertos.gob.pe/?query=ELECCIONES%20PRESIDENCIALES%202021&sort_by=changed&sort_order=DESC)
+Obtener los datos principales para el análisis, como son los dos archivos comprimidos con la información de ambos procesos electorales
+[INEI](https://m.inei.gob.pe/estadisticas/indice-tematico/sociales/)
+Datos adicionales para combinar con los ya obtenidos y así analizar de mejor manera los datos para mejores fututas conclusiones.
+
+#### RESUMEN DE LOS DATOS EN LA PRIMERA VUELTA
+Los datos a analizar son los siguientes:
+-	Partido Nacionalista Peruano
+-	El Frente Amplio Por Justicia, Vida Y Libertad
+-	Partido Morado
+-	Perú Patria Segura
+-	Victoria Nacional
+-	Acción Popular
+-	Avanza País - Partido De Integración Social
+-	Podemos Perú
+-	Juntos Por El Perú
+-	Partido Popular Cristiano - PPC
+-	Fuerza Popular
+-	Unión Por El Perú
+-	Renovación Popular
+-	Renacimiento Unido Nacional
+-	Partido Democrático Somos Perú
+-	Partido Político Nacional Perú Libre
+-	Democracia Directa
+-	Alianza Para El Progreso
+-	Votos En Blanco
+-	Votos Nulos
+-	Votos Inpugnados
+##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ IZQUIERDA
+
+#### RESUMEN DE LOS DATOS EN LA SEGUNDA VUELTA
+Los datos a analizar son los siguientes:
+-	Fuerza Popular
+-	Partido Político Nacional Perú Libre
+-	Votos En Blanco
+-	Votos Nulos
+-	Votos Inpugnados
+##### RESULTADOS POR DEPARTAMENTOS
+
+
+
 
 
 
