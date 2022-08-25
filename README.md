@@ -88,12 +88,8 @@ Aunque el artículo 18° de la Ley Orgánica de Elecciones se establece que la s
 #####  PROPUESTAS GENERALES ECONÓMICA
 | FUERZA POPULAR | PERÚ LIBRE |
 | :---         |     :---:      |
-| 
-* Obras dirigidas por el Estado con participación privada 
-* Empleo rápido y formalización a medio plazo  | 
-* Agricultura e industria 
-* Sindicalismo 
-* contrato a plazo fijo indeterminado  |
+| Obras dirigidas por el Estado con participación privada  |  Agricultura e industria y Sindicalismo | 
+| Empleo rápido y formalización a medio plazo  | contrato a plazo fijo indeterminado  |
 
 
 
