@@ -262,7 +262,7 @@ Según los datos observados en el mapa cloroplético y la tabla, el porcentaje d
 
 #####  RESULTADOS POR POR PAÍSES EN OCEANÍA
 * Tabla de resultados por países que apoyaron más a un partido
-![TABLA]()
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaOceania.jpg)
 
 * Mapa cloropléticos de Oceanía según el partidos políticos que ganó en cada país.
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaOceania.jpg)
@@ -272,6 +272,40 @@ Según los datos observados en el mapa cloroplético y la tabla, el porcentaje d
 | :---         |     :---:      |
 | FUERZA POPULAR | 67.30% |
 | PARTIDO POLITICO NACIONAL PERÚ LIBRE | 26.94% |
+
+##### VOTOS NULOS/ BLANCOS/ INVÁLIDOS SEGUNDA VUELTA
+* Tabla del conteo total de votos blancos, nulos e inválidos en el Perú por departamentos. 
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaBlancosPeru.jpg)
+
+* Diagrama de resultados del conteo total de votos blancos, nulos e inválidos en el Perú.
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasSegundaVueltaBlancosPeru.jpg)
+
+* Tabla del conteo total de votos blancos, nulos e inválidos en el extranjero por países.
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaBlancosExtranjero.jpg)
+
+* Diagrama de resultados del conteo total de votos blancos, nulos e inválidos en extranjero.
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasSegundaVueltaBlancosExtranjero.jpg)
+
+En resumen, el ranking final para los partidos de izquierda.
+| PARTIDO POLITICO | CANTIDAD | PORCENTAJE |
+| :---         |     :---:      |     :---:      |
+| VOTOS NULOS | 121478 | 0.48%  |
+| VOTOS INVÁLIDOS | 0 | 0.00%  |
+| VOTOS BLANCOS | 1107640 | 4.38%  |
+
+##### ASISTENCIA DE LOS ELECTORES EN EL PERÚ
+* Tabla del conteo total la electores en el Perú por departamentos.
+![TABLA]()
+
+* Diagrama del conteo total la electores en el Perú por departamentos.
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/CirculoSegundaVueltaBlancosPeru.jpg)
+
+##### ASISTENCIA DE LOS ELECTORES EN EL EXTRANJERO
+* Tabla del conteo total la electores en el extrangero por países.
+![TABLA]()
+
+* Diagrama del conteo total la electores en el extrangero por países.
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/CirculoSegundaVueltaBlancosExtranjero.jpg)
 
 #### ESTUDIO SEGÚN SECTORES
 -----------------
