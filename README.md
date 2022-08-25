@@ -295,14 +295,14 @@ En resumen, el ranking final para los partidos de izquierda.
 
 ##### ASISTENCIA DE LOS ELECTORES EN EL PERÚ
 * Tabla del conteo total la electores en el Perú por departamentos.
-![TABLA]()
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/AsistenciaPeru.jpg)
 
 * Diagrama del conteo total la electores en el Perú por departamentos.
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/CirculoSegundaVueltaBlancosPeru.jpg)
 
 ##### ASISTENCIA DE LOS ELECTORES EN EL EXTRANJERO
 * Tabla del conteo total la electores en el extrangero por países.
-![TABLA]()
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/AsistenciaExtrangero.jpg)
 
 * Diagrama del conteo total la electores en el extrangero por países.
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/CirculoSegundaVueltaBlancosExtranjero.jpg)
