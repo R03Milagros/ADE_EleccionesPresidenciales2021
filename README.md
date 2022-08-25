@@ -151,13 +151,13 @@ En resumen, el ranking final para los partidos de izquierda.
 | ALIANZA PARA EL PROGRESO | 3.429%  |
 
 ##### VOTOS NULOS/ BLANCOS/ INVÁLIDOS PRIMERA VUELTA
-* Tabla de votos blancos, nulos e inválidos en el Perú
+* Tabla de votos blancos, nulos e inválidos en el Perú. 
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaBlancosPeru.jpg)
 
-* Tabla de votos blancos, nulos e inválidos en el extranjero
+* Tabla de votos blancos, nulos e inválidos en el extranjero.
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaBlancosExtranjero.jpg)
 
-* Diagrama de resultados del conteo de votos blancos, nulos e inválidos
+* Diagrama de resultados del conteo de votos blancos, nulos e inválidos.
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaBlancos.jpg)
 
 En resumen, el ranking final para los partidos de izquierda.
