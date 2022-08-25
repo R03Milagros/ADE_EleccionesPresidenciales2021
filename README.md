@@ -71,11 +71,11 @@ De acuerdo con el artículo 17° de la Ley Orgánica de Elecciones, para ser ele
 
 Los primeros resultados según [IPSOS](https://www.ipsos.com/es-es) demostro que el Perú estaba entrampado entre los extremos de izquierda y derecha; Por lo tanto, se realiza un análisis para ver como fue el apoyo a estas ideologías en cada departamento del Perú.
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR IZQUIERDA EN EL PERU
-* Mapa cloropléticos del Perú segun los partidos políticos que ganaron en cada región del país.
-![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaIzquierda.jpg)
-
 * Tabla de resultados por departamentos que apoyaron más a un partido de izquierda
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaPeruIzquierda1.jpg)
+
+* Mapa cloropléticos del Perú según los partidos políticos que ganaron en cada región del país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaIzquierda.jpg)
 
 
 Según los datos observados en la tabla y mapa cloroplético, los partidos que obtuvieron mas apoyo fueron los siguientes.
@@ -109,12 +109,12 @@ En resumen, el ranking final para los partidos de izquierda.
 | PARTIDO NACIONALISTA PERUANO | 0.91%  |
 
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR DERECHA EN EL PERU
-* Mapa cloropléticos del Perú segun los partidos políticos que ganaron en cada región del país.
-![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaDerecha.jpg)
-
 
 * Tabla de resultados por departamentos que apoyaron más a un partido de derecha
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaPeruDerecha.jpg)
+
+* Mapa cloropléticos del Perú según los partidos políticos que ganaron en cada región del país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaDerecha.jpg)
 
 Según los datos observados en el mapa cloroplético y la tabla, los partidos que obtuvieron mas apoyo fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
@@ -178,7 +178,100 @@ Aunque el artículo 18° de la Ley Orgánica de Elecciones se establece que la s
 -	Votos Nulos
 -	Votos Inpugnados
 
-#####  RESULTADOS POR DEPARTAMENTOS
+#####  RESULTADOS POR DEPARTAMENTOS EN EL PERÚ
+* Tabla de resultados por departamentos que apoyaron más a un partido
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaPeru.jpg)
+
+* Mapa cloropléticos del Perú según el partidos políticos que ganó en cada región del país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaPeru.jpg)
+
+
+Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| PARTIDO POLITICO NACIONAL PERÚ LIBRE | 34.94% |
+| FUERZA POPULAR | 34.77% |
+
+* Diagrama de resultados del conteo total de votos blancos, nulos e inválidos en general.
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasSegundaVueltaPeru.jpg)
+
+#####  RESULTADOS POR POR PAÍSES EN SUDAMÉRICA
+* Tabla de resultados por países que apoyaron más a un partido
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaSudamerica.jpg)
+
+* Mapa cloropléticos de Sudamérica según el partidos políticos que ganó en cada país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaSudamerica.jpg)
+
+Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| FUERZA POPULAR | 52.30% |
+| PARTIDO POLITICO NACIONAL PERÚ LIBRE | 36.12% |
+
+#####  RESULTADOS POR POR PAÍSES EN NORTEAMÉRICA
+* Tabla de resultados por países que apoyaron más a un partido
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaNorteamerica.jpg)
+
+* Mapa cloropléticos de Norteamérica según el partidos políticos que ganó en cada país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaNorteAmerica.jpg)
+
+Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| FUERZA POPULAR | 76.49% |
+| PARTIDO POLITICO NACIONAL PERÚ LIBRE | 18.70% |
+
+#####  RESULTADOS POR POR PAÍSES EN ASIA
+* Tabla de resultados por países que apoyaron más a un partido
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaAsia.jpg)
+
+* Mapa cloropléticos de Asia según el partidos políticos que ganó en cada país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaAsia.jpg)
+
+Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| FUERZA POPULAR | 88.76% |
+| PARTIDO POLITICO NACIONAL PERÚ LIBRE | 7.95% |
+
+#####  RESULTADOS POR POR PAÍSES EN EUROPA
+* Tabla de resultados por países que apoyaron más a un partido
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaEuropa.jpg)
+
+* Mapa cloropléticos de Europa según el partidos políticos que ganó en cada país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaEuropa.jpg)
+
+Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| FUERZA POPULAR | 53.20% |
+| PARTIDO POLITICO NACIONAL PERÚ LIBRE | 38.38% |
+
+#####  RESULTADOS POR POR PAÍSES EN ÁFRICA
+* Tabla de resultados por países que apoyaron más a un partido
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaAfrica.jpg)
+
+* Mapa cloropléticos de África según el partidos políticos que ganó en cada país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaAfrica.jpg)
+
+Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| FUERZA POPULAR | 75.00% |
+| PARTIDO POLITICO NACIONAL PERÚ LIBRE | 19.74% |
+
+#####  RESULTADOS POR POR PAÍSES EN OCEANÍA
+* Tabla de resultados por países que apoyaron más a un partido
+![TABLA]()
+
+* Mapa cloropléticos de Oceanía según el partidos políticos que ganó en cada país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaOceania.jpg)
+
+Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| FUERZA POPULAR | 67.30% |
+| PARTIDO POLITICO NACIONAL PERÚ LIBRE | 26.94% |
 
 #### ESTUDIO SEGÚN SECTORES
 -----------------
