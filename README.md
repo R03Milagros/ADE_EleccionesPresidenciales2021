@@ -71,10 +71,14 @@ De acuerdo con el artículo 17° de la Ley Orgánica de Elecciones, para ser ele
 
 Los primeros resultados según [IPSOS](https://www.ipsos.com/es-es) demostro que el Perú estaba entrampado entre los extremos de izquierda y derecha; Por lo tanto, se realiza un análisis para ver como fue el apoyo a estas ideologías en cada departamento del Perú.
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR IZQUIERDA EN EL PERU
-* Tabla de resultados por departamentos que apoyaron más a un partido de izquierda
+* Tabla de resultados por departamentos que apoyaron más a un partido de izquierda.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaPeruIzquierda1.jpg)
 
 * Mapa cloropléticos del Perú según los partidos políticos que ganaron en cada región del país.
+
+
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaIzquierda.jpg)
 
 
@@ -85,11 +89,15 @@ Según los datos observados en la tabla y mapa cloroplético, los partidos que o
 | JUNTOS POR EL PERU PERÚ | 4.40%  | 
 | PARTIDO NACIONALISTA PERUANO | 0.91%  |
 
-* Diagrama de resultados por departamentos que apoyaron más a un partido de izquierda
+* Diagrama de resultados por departamentos que apoyaron más a un partido de izquierda.
+
+
 ![DPIP](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaPeruIzquierda.jpg)
 
 ##### RESULTADOS EN EL EXTRANJERO POR IZQUIERDA 
-* Tabla de resultados por país que apoyaron más a un partido de izquierda
+* Tabla de resultados por país que apoyaron más a un partido de izquierda.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaExtranjeroIzquierda.jpg)
 
 Según los datos observados en la tabla y el grafico de barras, los partidos que obtuvieron mas apoyo en votos en el estranjero fueron los siguientes.
@@ -98,7 +106,9 @@ Según los datos observados en la tabla y el grafico de barras, los partidos que
 | PARTIDO POLITICO NACIONAL PERÚ LIBRE | 0.04% |
 | JUNTOS POR EL PERU PERÚ | 0.08%  | 
 
-* Diagrama de resultados países en el extranjero que apoyaron más a un partido de izquierda
+* Diagrama de resultados países en el extranjero que apoyaron más a un partido de izquierda.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaExtranjeroIzquierda.jpg)
 
 En resumen, el ranking final para los partidos de izquierda.
@@ -110,10 +120,14 @@ En resumen, el ranking final para los partidos de izquierda.
 
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR DERECHA EN EL PERU
 
-* Tabla de resultados por departamentos que apoyaron más a un partido de derecha
+* Tabla de resultados por departamentos que apoyaron más a un partido de derecha.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaPeruDerecha.jpg)
 
 * Mapa cloropléticos del Perú según los partidos políticos que ganaron en cada región del país.
+
+
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaDerecha.jpg)
 
 Según los datos observados en el mapa cloroplético y la tabla, los partidos que obtuvieron mas apoyo fueron los siguientes.
@@ -125,11 +139,15 @@ Según los datos observados en el mapa cloroplético y la tabla, los partidos qu
 | ACCIÓN POPULAR | 5.12%  |
 | ALIANZA PARA EL PROGRESO | 3.42%  |
 
-* Diagrama de resultados países en el extranjero que apoyaron más a un partido de izquierda
+* Diagrama de resultados países en el extranjero que apoyaron más a un partido de izquierda.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaPeruDerecha.jpg)
 
 ##### RESULTADOS EN EL EXTRANJERO POR DERECHA 
-* Tabla de resultados por país que apoyaron más a un partido de izquierda
+* Tabla de resultados por país que apoyaron más a un partido de izquierda.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaExtranjeroDerecha.jpg)
 
 Según los datos observados en la tabla, los partidos que obtuvieron mas apoyo en el extranjero fueron los siguientes.
@@ -138,7 +156,9 @@ Según los datos observados en la tabla, los partidos que obtuvieron mas apoyo e
 | FUERZA POPULAR | 0.14% |
 | RENOVACIÓN POPULAR | 0.09%  | 
 
-* Diagrama de resultados países en el extranjero que apoyaron más a un partido de izquierda
+* Diagrama de resultados países en el extranjero que apoyaron más a un partido de izquierda.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaExtranjeroDerecha.jpg)
 
 En resumen, el ranking final para los partidos de izquierda.
@@ -152,12 +172,18 @@ En resumen, el ranking final para los partidos de izquierda.
 
 ##### VOTOS NULOS/ BLANCOS/ INVÁLIDOS PRIMERA VUELTA
 * Tabla del conteo total de votos blancos, nulos e inválidos en el Perú por departamentos. 
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaBlancosPeru.jpg)
 
 * Tabla del conteo total de votos blancos, nulos e inválidos en el extranjero por países.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaBlancosExtranjero.jpg)
 
 * Diagrama de resultados del conteo total de votos blancos, nulos e inválidos en general.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaBlancos.jpg)
 
 En resumen, el ranking final para los partidos de izquierda.
@@ -179,10 +205,14 @@ Aunque el artículo 18° de la Ley Orgánica de Elecciones se establece que la s
 -	Votos Inpugnados
 
 #####  RESULTADOS POR DEPARTAMENTOS EN EL PERÚ
-* Tabla de resultados por departamentos que apoyaron más a un partido
+* Tabla de resultados por departamentos que apoyaron más a un partido.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaPeru.jpg)
 
 * Mapa cloropléticos del Perú según el partidos políticos que ganó en cada región del país.
+
+
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaPeru.jpg)
 
 
@@ -193,13 +223,19 @@ Según los datos observados en el mapa cloroplético y la tabla, el porcentaje d
 | FUERZA POPULAR | 34.77% |
 
 * Diagrama de resultados del conteo total de votos blancos, nulos e inválidos en general.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasSegundaVueltaPeru.jpg)
 
 #####  RESULTADOS POR POR PAÍSES EN SUDAMÉRICA
-* Tabla de resultados por países que apoyaron más a un partido
+* Tabla de resultados por países que apoyaron más a un partido.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaSudamerica.jpg)
 
 * Mapa cloropléticos de Sudamérica según el partidos políticos que ganó en cada país.
+
+
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaSudamerica.jpg)
 
 Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
@@ -209,11 +245,16 @@ Según los datos observados en el mapa cloroplético y la tabla, el porcentaje d
 | PARTIDO POLITICO NACIONAL PERÚ LIBRE | 36.12% |
 
 #####  RESULTADOS POR POR PAÍSES EN NORTEAMÉRICA
-* Tabla de resultados por países que apoyaron más a un partido
+* Tabla de resultados por países que apoyaron más a un partido.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaNorteamerica.jpg)
 
 * Mapa cloropléticos de Norteamérica según el partidos políticos que ganó en cada país.
+
+
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaNorteAmerica.jpg)
+
 
 Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
@@ -222,11 +263,16 @@ Según los datos observados en el mapa cloroplético y la tabla, el porcentaje d
 | PARTIDO POLITICO NACIONAL PERÚ LIBRE | 18.70% |
 
 #####  RESULTADOS POR POR PAÍSES EN ASIA
-* Tabla de resultados por países que apoyaron más a un partido
+* Tabla de resultados por países que apoyaron más a un partido.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaAsia.jpg)
 
 * Mapa cloropléticos de Asia según el partidos políticos que ganó en cada país.
+
+
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaAsia.jpg)
+
 
 Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
@@ -236,10 +282,15 @@ Según los datos observados en el mapa cloroplético y la tabla, el porcentaje d
 
 #####  RESULTADOS POR POR PAÍSES EN EUROPA
 * Tabla de resultados por países que apoyaron más a un partido
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaEuropa.jpg)
 
 * Mapa cloropléticos de Europa según el partidos políticos que ganó en cada país.
+
+
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaEuropa.jpg)
+
 
 Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
@@ -248,11 +299,16 @@ Según los datos observados en el mapa cloroplético y la tabla, el porcentaje d
 | PARTIDO POLITICO NACIONAL PERÚ LIBRE | 38.38% |
 
 #####  RESULTADOS POR POR PAÍSES EN ÁFRICA
-* Tabla de resultados por países que apoyaron más a un partido
+* Tabla de resultados por países que apoyaron más a un partido.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaAfrica.jpg)
 
 * Mapa cloropléticos de África según el partidos políticos que ganó en cada país.
+
+
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaAfrica.jpg)
+
 
 Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
@@ -261,11 +317,16 @@ Según los datos observados en el mapa cloroplético y la tabla, el porcentaje d
 | PARTIDO POLITICO NACIONAL PERÚ LIBRE | 19.74% |
 
 #####  RESULTADOS POR POR PAÍSES EN OCEANÍA
-* Tabla de resultados por países que apoyaron más a un partido
+* Tabla de resultados por países que apoyaron más a un partido.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaOceania.jpg)
 
 * Mapa cloropléticos de Oceanía según el partidos políticos que ganó en cada país.
+
+
 ![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/SegundaVueltaOceania.jpg)
+
 
 Según los datos observados en el mapa cloroplético y la tabla, el porcentaje de apoyo a los partidos fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
@@ -275,16 +336,25 @@ Según los datos observados en el mapa cloroplético y la tabla, el porcentaje d
 
 ##### VOTOS NULOS/ BLANCOS/ INVÁLIDOS SEGUNDA VUELTA
 * Tabla del conteo total de votos blancos, nulos e inválidos en el Perú por departamentos. 
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaBlancosPeru.jpg)
 
 * Diagrama de resultados del conteo total de votos blancos, nulos e inválidos en el Perú.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasSegundaVueltaBlancosPeru.jpg)
 
 * Tabla del conteo total de votos blancos, nulos e inválidos en el extranjero por países.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/SegundaVueltaBlancosExtranjero.jpg)
 
 * Diagrama de resultados del conteo total de votos blancos, nulos e inválidos en extranjero.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasSegundaVueltaBlancosExtranjero.jpg)
+
 
 En resumen, el ranking final para los partidos de izquierda.
 | PARTIDO POLITICO | CANTIDAD | PORCENTAJE |
@@ -295,21 +365,29 @@ En resumen, el ranking final para los partidos de izquierda.
 
 ##### ASISTENCIA DE LOS ELECTORES EN EL PERÚ
 * Tabla del conteo total la electores en el Perú por departamentos.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/AsistenciaPeru.jpg)
 
 * Diagrama del conteo total la electores en el Perú por departamentos.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/CirculoSegundaVueltaBlancosPeru.jpg)
 
 ##### ASISTENCIA DE LOS ELECTORES EN EL EXTRANJERO
 * Tabla del conteo total la electores en el extrangero por países.
+
+
 ![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/AsistenciaExtrangero.jpg)
 
 * Diagrama del conteo total la electores en el extrangero por países.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/CirculoSegundaVueltaBlancosExtranjero.jpg)
 
 #### ESTUDIO SEGÚN SECTORES
 -----------------
-Realizamos un resumen de las propuestas de los sectores más resaltantes de ambos partidos políticos
+Realizamos un resumen de las propuestas de los sectores más resaltantes de ambos partidos políticos.
 
 #####  PROPUESTAS GENERALES ECONÓMICA
 
@@ -332,10 +410,14 @@ Tabla indica la tasa de actividad (empleo) durante los años 2018 a 2020 por dep
 | Complementar Aprendo en Casa con iniciativas privadas y comunitarias | Incremento de sueldos al magisterio activo y pensionista | 
 | Soporte y acompañamiento a docentes | Ingreso libre a la universidad peruana |
 
-Tabla indica la cantidad de votantes según la edad
+Tabla indica la cantidad de votantes según la edad.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/Edad.jpg)
 
-Población juvenil que ni estudia ni trabaja, 2004 - 2020
+Población juvenil que ni estudia ni trabaja, 2004 - 2020.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/Jovenes_NINI.jpeg)
 
 Según la tabla mostrada la tasa de jóvenes que no estudian y trabajan fue acrecentándose con el pasar de los años, siendo así que en 2020 llegó a un 32.6%, basándonos en las propuestas del partido político Perú Libre en el sector educación y también en las edades de los votantes registrados en la RENIEC, podemos concluir que esta fracción de la población juvenil, los cuales fueron los de mayor asistencia en las elecciones, votó por el partido político Perú Libre ya que este propuso un ingreso libre a la universidad como también un contrato de trabajo indefinido.
@@ -349,10 +431,14 @@ Según la tabla mostrada la tasa de jóvenes que no estudian y trabajan fue acre
 | Articular programas sociales | Garantizar la alimentación de la madre y del niño |
 | Planes urbanos que permitan el manejo de residuos urbanos e industriales | Zonificación económica ecológica |
 
-Tabla indica Porcentaje de situación de pobreza respecto del total de población
+Tabla indica Porcentaje de situación de pobreza respecto del total de población.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PobrezaTabla.jpg)
 
-Población en situación de pobreza monetaria, según ámbito geográfico, 2015 - 2020
+Población en situación de pobreza monetaria, según ámbito geográfico, 2015 - 2020.
+
+
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/PobrezaTabla.jpg)
 
 Tomando en cuenta que el porcentaje de pobreza se incrementó para el año 2020 a causa del covid-2019 sobre todo en la sierra rural del país, notamos que esta área es la que más apoyó al partido político Perú Libre, debido a la idea que la izquierda en el Perú busca su reivindicación con los sectores populares, los movimientos de descentralización, la lucha por la igualdad de clases, la ampliación del voto, la justicia para las comunidades obreras, campesinas, rurales, indígenas, amazónicas, entre otros grupos.
