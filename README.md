@@ -71,8 +71,12 @@ De acuerdo con el artículo 17° de la Ley Orgánica de Elecciones, para ser ele
 
 Los primeros resultados según [IPSOS](https://www.ipsos.com/es-es) demostro que el Perú estaba entrampado entre los extremos de izquierda y derecha; Por lo tanto, se realiza un análisis para ver como fue el apoyo a estas ideologías en cada departamento del Perú.
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR IZQUIERDA EN EL PERU
-Se visualiza el mapa cloropléticos del Perú segun los partidos políticos que ganaron en cada región del país.
-![MAPA DEL PERU I](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaIzquierda.jpg)
+* Mapa cloropléticos del Perú segun los partidos políticos que ganaron en cada región del país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaIzquierda.jpg)
+
+* Tabla de resultados por departamentos que apoyaron más a un partido de izquierda
+![DPIP]()
+
 
 Según los datos observados en la tabla y mapa cloroplético, los partidos que obtuvieron mas apoyo fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
@@ -81,13 +85,21 @@ Según los datos observados en la tabla y mapa cloroplético, los partidos que o
 | JUNTOS POR EL PERU PERÚ | 4.40%  | 
 | PARTIDO NACIONALISTA PERUANO | 0.91%  |
 
-##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR IZQUIERDA EN EL EXTRANJERO
+* Diagrama de resultados por departamentos que apoyaron más a un partido de izquierda
+![DPIP](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaPeruIzquierda.jpg)
+
+##### RESULTADOS EN EL EXTRANJERO POR IZQUIERDA 
+* Tabla de resultados por país que apoyaron más a un partido de izquierda
+![DPIP]()
 
 Según los datos observados en la tabla y el grafico de barras, los partidos que obtuvieron mas apoyo en votos en el estranjero fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
 | :---         |     :---:      |
 | PARTIDO POLITICO NACIONAL PERÚ LIBRE | 0.04% |
 | JUNTOS POR EL PERU PERÚ | 0.08%  | 
+
+* Diagrama de resultados países en el extranjero que apoyaron más a un partido de izquierda
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaExtranjeroIzquierda.jpg)
 
 En resumen, el ranking final para los partidos de izquierda.
 | PARTIDO POLITICO | PORCENTAJE |
@@ -96,7 +108,47 @@ En resumen, el ranking final para los partidos de izquierda.
 | JUNTOS POR EL PERU PERÚ | 4.48%  | 
 | PARTIDO NACIONALISTA PERUANO | 0.91%  |
 
-##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ IZQUIERDA
+##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR DERECHA EN EL PERU
+* Mapa cloropléticos del Perú segun los partidos políticos que ganaron en cada región del país.
+![MAPA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaDerecha.jpg)
+
+
+* Tabla de resultados por departamentos que apoyaron más a un partido de derecha
+![TABLA]()
+
+Según los datos observados en el mapa cloroplético y la tabla, los partidos que obtuvieron mas apoyo fueron los siguientes.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| FUERZA POPULAR | 7.54% |
+| RENOVACIÓN POPULAR | 6.55%  | 
+| AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL | 6.54%  |
+| ACCIÓN POPULAR | 5.12%  |
+| ALIANZA PARA EL PROGRESO | 3.42%  |
+
+* Diagrama de resultados países en el extranjero que apoyaron más a un partido de izquierda
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaPeruDerecha.jpg)
+
+##### RESULTADOS EN EL EXTRANJERO POR DERECHA 
+* Tabla de resultados por país que apoyaron más a un partido de izquierda
+![TABLA]()
+
+Según los datos observados en la tabla, los partidos que obtuvieron mas apoyo en el extranjero fueron los siguientes.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| FUERZA POPULAR | 0.14% |
+| RENOVACIÓN POPULAR | 0.09%  | 
+
+* Diagrama de resultados países en el extranjero que apoyaron más a un partido de izquierda
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaExtranjeroDerecha.jpg)
+
+En resumen, el ranking final para los partidos de izquierda.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| FUERZA POPULAR | 7.635% |
+| RENOVACIÓN POPULAR | 6.669%  | 
+| AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL | 6.621%  |
+| ACCIÓN POPULAR | 5.166%  |
+| ALIANZA PARA EL PROGRESO | 3.429%  |
 
 #### RESUMEN DE LOS DATOS EN LA SEGUNDA VUELTA ELECTORAL
 -----------------
