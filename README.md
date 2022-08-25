@@ -3,7 +3,7 @@
 
 |ARCE QUISPE RUTH MILAGROS | CAHUATA LAVILLA YOLMY MILAGROS|
 
-![](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021#RESUMEN-DE-LOS-DATOS-EN-LA-SEGUNDA-VUELTA/IMAGENES/imagen.png)
+![](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/IMAGENES/imagen.png)
 
 ## ÍNDICE 
 
