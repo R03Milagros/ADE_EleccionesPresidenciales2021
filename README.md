@@ -150,6 +150,25 @@ En resumen, el ranking final para los partidos de izquierda.
 | ACCIÓN POPULAR | 5.166%  |
 | ALIANZA PARA EL PROGRESO | 3.429%  |
 
+##### VOTOS NULOS/ BLANCOS/ INVÁLIDOS PRIMERA VUELTA
+* Tabla de votos blancos, nulos e inválidos en el Perú
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaBlancosPeru.jpg)
+
+* Tabla de votos blancos, nulos e inválidos en el extranjero
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PrimeraVueltaBlancosExtranjero.jpg)
+
+* Diagrama de resultados del conteo de votos blancos, nulos e inválidos
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/BarrasPrimeraVueltaBlancos.jpg)
+
+En resumen, el ranking final para los partidos de izquierda.
+| PARTIDO POLITICO | CANTIDAD | PORCENTAJE |
+| :---         |     :---:      |     :---:      |
+| POBLACIÓN | 25287954 | 100.00% |
+| VOTOS TOTALES | 17713716 | 70.05%  | 
+| VOTOS NULOS | 1123000 | 4.44%  |
+| VOTOS INVÁLIDOS | 0 | 0.00%  |
+| VOTOS BLANCOS | 219055 | 8.66%  |
+
 #### RESUMEN DE LOS DATOS EN LA SEGUNDA VUELTA ELECTORAL
 -----------------
 Aunque el artículo 18° de la Ley Orgánica de Elecciones se establece que la segunda vuelta electoral se realice dentro de los treinta días siguientes a la proclamación de los resultados oficiales, sin embargo, mediante un Decreto Supremo se convocó que este proceso se realice el domingo 6 de junio de 2021.Considerando así la data de este proceso se analizaron los siguientes atributos:
