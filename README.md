@@ -309,6 +309,7 @@ En resumen, el ranking final para los partidos de izquierda.
 
 #### ESTUDIO SEGÚN SECTORES
 -----------------
+Realizamos un resumen de las propuestas de los sectores más resaltantes de ambos partidos políticos
 
 #####  PROPUESTAS GENERALES ECONÓMICA
 
@@ -339,7 +340,11 @@ En síntesis , vemos la importancia de un voto informado y consciente, en la pri
 
 ##### VOTO INFORMADO
 ![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/votoinformado.jpg)
+
+
 *Encuesta IPSOS sobre el conocimiento de las propuestas presentadas por los candidatos* 
+
+
 Abalando lo anteriormente dicho, vemos en el gráfico mostrado que tan solo un 7% de la población está informado sobre las propuestas políticas de ambos partidos, mientras que un 28% no sabe nada de ellas y un 64% que está poco informado y mayormente de rumores que se esparcieron de ambos candidatos, dejándose llevar así por la opinión de terceros.
 
 
