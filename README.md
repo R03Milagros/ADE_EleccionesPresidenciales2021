@@ -8,6 +8,8 @@ Análisis de los datos obtenidos sobre las elecciones presidenciales.
 - [OBTENCIÓN DE DATOS](#OBTENCIÓN-DE-DATOS)
 - [RESUMEN DE LOS DATOS EN LA PRIMERA VUELTA](#RESUMEN-DE-LOS-DATOS-EN-LA-PRIMERA-VUELTA)
 - [RESUMEN DE LOS DATOS EN LA SEGUNDA VUELTA](#RESUMEN-DE-LOS-DATOS-EN-LA-SEGUNDA-VUELTA)
+- [ESTUDIO SEGÚN SECTORES](#ESTUDIO-SEGÚN-SECTORES)
+- [CONCLUSIONES](#CONCLUSIONES)
 
 ### INTRODUCCIÓN
 En el 2021 se realizó la máxima representación de la democracia en el Perú, las elecciones presidenciales, los medios de comunicación nos mostró los resultados de manera simplificada, por lo tanto, buscamos analizar a profundidad el desarrollo de este proceso y así determinar los posibles argumentos del porqué de estos resultados.
@@ -37,7 +39,7 @@ Obtener los datos principales para el análisis, como son los dos archivos compr
 Datos adicionales para combinar con los ya obtenidos y así analizar de mejor manera los datos para mejores fututas conclusiones.
 
 #### RESUMEN DE LOS DATOS EN LA PRIMERA VUELTA
-Los datos a analizar son los siguientes:
+De acuerdo con el artículo 17° de la Ley Orgánica de Elecciones, para ser elegidos presidente y vicepresidentes de la República se requiere haber obtenido más de la mitad de los votos válidos, sin contar los votos viciados y en blanco. Como en las elecciones del 11 de abril de 2021, ninguna de las 18 fórmulas presidenciales que participaron obtuvo esa cantidad de votos se debe realizar la segunda vuelta electoral; Por lo tanto, se consideraron los siguientes atributos:
 -	Partido Nacionalista Peruano
 -	El Frente Amplio Por Justicia, Vida Y Libertad
 -	Partido Morado
@@ -62,7 +64,7 @@ Los datos a analizar son los siguientes:
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ IZQUIERDA
 
 #### RESUMEN DE LOS DATOS EN LA SEGUNDA VUELTA
-Los datos a analizar son los siguientes:
+Aunque el artículo 18° de la Ley Orgánica de Elecciones se establece que la segunda vuelta electoral se realice dentro de los treinta días siguientes a la proclamación de los resultados oficiales, sin embargo, mediante un Decreto Supremo se convocó que este proceso se realice el domingo 6 de junio de 2021.Considerando así la data de este proceso se analizaron los siguientes atributos:
 -	Fuerza Popular
 -	Partido Político Nacional Perú Libre
 -	Votos En Blanco
@@ -70,6 +72,11 @@ Los datos a analizar son los siguientes:
 -	Votos Inpugnados
 ##### RESULTADOS POR DEPARTAMENTOS
 
+
+#### ESTUDIO SEGÚN SECTORES
+
+
+#### CONCLUSIONES
 
 
 
