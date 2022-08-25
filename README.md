@@ -335,7 +335,15 @@ En resumen, el ranking final para los partidos de izquierda.
 
 #### CONCLUSIONES
 -----------------
-En conclusión, vemos la importancia de un voto informado y consciente, en la primera ronda se hace notorio con más del 13% de la población las personas que no fueron a votar o lo realizaron incorrectamente, cifra con la cual se pudo haber obtenido otro resultado, mientras que en la segunda vuelta hubo un aproximado del 5% de la población que realizó un voto blanco o nulo los cuales pudieron hacer la diferencia debido a que el Partido Político Fuerza Popular y Perú Libre obtuvieron sus resultados con una discrepancia de menos del 1% a favor de Perú Libre, resultados los cuales se vieron influenciados por factores como el anti-voto, etnia , ocupación, propuestas políticas, entre otros. Resaltando el anti-voto en estas elecciones, gracias a la encuesta realizada por el diario El Comercio nos muestra que un 45% de la población definitivamente no votaría por la candidata Keiko Fujimori, lo cual solo deja que las opciones de un voto nulo/blanco o el apoyo al candidato Pedro Castillo, sin embargo, un 41% de la población también nos indica que no votaría por el candidato de Perú Libre, de esta forma vemos que los resultados fueron más guiados por un anti-voto que por las propuestas políticas de ambos partidos.
+En síntesis , vemos la importancia de un voto informado y consciente, en la primera ronda se hace notorio con más del 13% de la población las personas que no fueron a votar o lo realizaron incorrectamente, cifra con la cual se pudo haber obtenido otro resultado, mientras que en la segunda vuelta hubo un aproximado del 5% de la población que realizó un voto blanco o nulo los cuales pudieron hacer la diferencia debido a que el Partido Político Fuerza Popular y Perú Libre obtuvieron sus resultados con una discrepancia de menos del 1% a favor de Perú Libre, resultados los cuales se vieron influenciados por factores como el anti-voto, etnia , ocupación, propuestas políticas, entre otros. Resaltando el anti-voto en estas elecciones, gracias a la encuesta realizada por el diario El Comercio nos muestra que un 45% de la población definitivamente no votaría por la candidata Keiko Fujimori, lo cual solo deja que las opciones de un voto nulo/blanco o el apoyo al candidato Pedro Castillo, sin embargo, un 41% de la población también nos indica que no votaría por el candidato de Perú Libre, de esta forma vemos que los resultados fueron más guiados por un anti-voto que por las propuestas políticas de ambos partidos.
+
+##### VOTO INFORMADO
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/votoinformado.jpg)
+*Encuesta IPSOS sobre el conocimiento de las propuestas presentadas por los candidatos* 
+Abalando lo anteriormente dicho, vemos en el gráfico mostrado que tan solo un 7% de la población está informado sobre las propuestas políticas de ambos partidos, mientras que un 28% no sabe nada de ellas y un 64% que está poco informado y mayormente de rumores que se esparcieron de ambos candidatos, dejándose llevar así por la opinión de terceros.
+
+
+
 
 
 
