@@ -318,12 +318,28 @@ Realizamos un resumen de las propuestas de los sectores más resaltantes de ambo
 | Obras dirigidas por el Estado con participación privada | Agricultura e industria y Sindicalismo | 
 | Empleo rápido y formalización a medio plazo | Contrato a plazo fijo indeterminado |
 
+Tabla indica la tasa de actividad (empleo) durante los años 2018 a 2020 por departamento en el Perú
+
+
+![TABLA](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/tasaactividad.jpg)
+
+
+
 #####  PROPUESTAS GENERALES EDUCACIÓN
 
 | FUERZA POPULAR | PERÚ LIBRE |
 | :---         |     :---:      |
 | Complementar Aprendo en Casa con iniciativas privadas y comunitarias | Incremento de sueldos al magisterio activo y pensionista | 
 | Soporte y acompañamiento a docentes | Ingreso libre a la universidad peruana |
+
+Tabla indica la cantidad de votantes según la edad
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/Edad.jpg)
+
+Población juvenil que ni estudia ni trabaja, 2004 - 2020
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/Jovenes_NINI.jpeg)
+
+Según la tabla mostrada la tasa de jóvenes que no estudian y trabajan fue acrecentándose con el pasar de los años, siendo así que en 2020 llegó a un 32.6%, basándonos en las propuestas del partido político Perú Libre en el sector educación y también en las edades de los votantes registrados en la RENIEC, podemos concluir que esta fracción de la población juvenil, los cuales fueron los de mayor asistencia en las elecciones, votó por el partido político Perú Libre ya que este propuso un ingreso libre a la universidad como también un contrato de trabajo indefinido.
+
 
 #####  PROPUESTAS GENERALES SOCIAL
 
@@ -333,6 +349,13 @@ Realizamos un resumen de las propuestas de los sectores más resaltantes de ambo
 | Articular programas sociales | Garantizar la alimentación de la madre y del niño |
 | Planes urbanos que permitan el manejo de residuos urbanos e industriales | Zonificación económica ecológica |
 
+Tabla indica Porcentaje de situación de pobreza respecto del total de población
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/TABLAS/PobrezaTabla.jpg)
+
+Población en situación de pobreza monetaria, según ámbito geográfico, 2015 - 2020
+![DPIE](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/GRAFICOS/PobrezaTabla.jpg)
+
+Tomando en cuenta que el porcentaje de pobreza se incrementó para el año 2020 a causa del covid-2019 sobre todo en la sierra rural del país, notamos que esta área es la que más apoyó al partido político Perú Libre, debido a la idea que la izquierda en el Perú busca su reivindicación con los sectores populares, los movimientos de descentralización, la lucha por la igualdad de clases, la ampliación del voto, la justicia para las comunidades obreras, campesinas, rurales, indígenas, amazónicas, entre otros grupos.
 
 #### CONCLUSIONES
 -----------------
