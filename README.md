@@ -69,6 +69,9 @@ De acuerdo con el artículo 17° de la Ley Orgánica de Elecciones, para ser ele
 -	Votos Nulos
 -	Votos Inpugnados
 
+##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR IZQUIERDA
+![MAPA DEL PERU](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaIzquierda.jpgg)
+
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ IZQUIERDA
 
 #### RESUMEN DE LOS DATOS EN LA SEGUNDA VUELTA ELECTORAL
@@ -89,7 +92,7 @@ Aunque el artículo 18° de la Ley Orgánica de Elecciones se establece que la s
 
 | FUERZA POPULAR | PERÚ LIBRE |
 | :---         |     :---:      |
-| Obras dirigidas por el Estado con participación privada |  Agricultura e industria y Sindicalismo | 
+| Obras dirigidas por el Estado con participación privada | Agricultura e industria y Sindicalismo | 
 | Empleo rápido y formalización a medio plazo | Contrato a plazo fijo indeterminado |
 
 #####  PROPUESTAS GENERALES EDUCACIÓN
