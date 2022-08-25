@@ -70,17 +70,31 @@ De acuerdo con el artículo 17° de la Ley Orgánica de Elecciones, para ser ele
 -	Votos Inpugnados
 
 Los primeros resultados según [IPSOS](https://www.ipsos.com/es-es) demostro que el Perú estaba entrampado entre los extremos de izquierda y derecha; Por lo tanto, se realiza un análisis para ver como fue el apoyo a estas ideologías en cada departamento del Perú.
-##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR IZQUIERDA
+##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR IZQUIERDA EN EL PERU
 Se visualiza el mapa cloropléticos del Perú segun los partidos políticos que ganaron en cada región del país.
 ![MAPA DEL PERU I](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/MAPAS/PrimeraVueltaIzquierda.jpg)
 
-Según los datos observados en la tabla y mapa cloroplético, en resumen, los partidos que obtuvieron mas apoyo fueron los siguientes.
+Según los datos observados en la tabla y mapa cloroplético, los partidos que obtuvieron mas apoyo fueron los siguientes.
 | PARTIDO POLITICO | PORCENTAJE |
 | :---         |     :---:      |
 | PARTIDO POLITICO NACIONAL PERÚ LIBRE | 10.73% |
 | JUNTOS POR EL PERU PERÚ | 4.40%  | 
 | PARTIDO NACIONALISTA PERUANO | 0.91%  |
 
+##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ POR IZQUIERDA EN EL EXTRANJERO
+
+Según los datos observados en la tabla y el grafico de barras, los partidos que obtuvieron mas apoyo en votos en el estranjero fueron los siguientes.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| PARTIDO POLITICO NACIONAL PERÚ LIBRE | 0.04% |
+| JUNTOS POR EL PERU PERÚ | 0.08%  | 
+
+En resumen, el ranking final para los partidos de izquierda.
+| PARTIDO POLITICO | PORCENTAJE |
+| :---         |     :---:      |
+| PARTIDO POLITICO NACIONAL PERÚ LIBRE | 10.77% |
+| JUNTOS POR EL PERU PERÚ | 4.48%  | 
+| PARTIDO NACIONALISTA PERUANO | 0.91%  |
 
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ IZQUIERDA
 
