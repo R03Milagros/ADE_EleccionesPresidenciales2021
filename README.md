@@ -29,7 +29,6 @@ Por lo tanto, tendremos en cuenta los siguientes aspectos para nuestro llevar a 
 Es un organismo electoral constitucional autónomo que forma parte del Estado, es la autoridad máxima que se encarga de organizar y ejecutar distintos procesos electorales, de referéndum y otros tipos de consulta popular.
 
 ##### Acciones
------------------
 - Organiza procesos electorales, de referéndum y otros tipos de consulta popular.
 - Elabora todo el material electoral necesario para que se lleve a cabo un proceso electoral y lo distribuimos a las Oficinas.
 - Obtiene los resultados de los procesos electorales y los remitirlos a los Jurados Electorales.
@@ -71,7 +70,6 @@ De acuerdo con el artículo 17° de la Ley Orgánica de Elecciones, para ser ele
 -	Votos Inpugnados
 
 ##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ IZQUIERDA
------------------
 
 #### RESUMEN DE LOS DATOS EN LA SEGUNDA VUELTA ELECTORAL
 -----------------
@@ -83,17 +81,19 @@ Aunque el artículo 18° de la Ley Orgánica de Elecciones se establece que la s
 -	Votos Inpugnados
 
 #####  RESULTADOS POR DEPARTAMENTOS
------------------
-
 
 #### ESTUDIO SEGÚN SECTORES
 -----------------
 
 #####  PROPUESTAS GENERALES ECONÓMICA
------------------
 | FUERZA POPULAR | PERÚ LIBRE |
 | :---         |     :---:      |
-| * Obras dirigidas por el Estado con participación privada * Empleo rápido y formalización a medio plazo  | * Agricultura e industria * Sindicalismo *contrato a plazo fijo indeterminado  |
+| 
+* Obras dirigidas por el Estado con participación privada 
+* Empleo rápido y formalización a medio plazo  | 
+* Agricultura e industria 
+* Sindicalismo 
+* contrato a plazo fijo indeterminado  |
 
 
 
