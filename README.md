@@ -1,12 +1,11 @@
 # ANÁLISIS DEL FLUJO DE VOTOS DURANTE LAS ELECCIONES PRESIDENCIALES
 *Análisis de los datos obtenidos sobre las elecciones presidenciales*
 
-|ARCE QUISPE RUTH MILAGROS | CAHUATA LAVILLA YOLMY MILAGROS|
+| ARCE QUISPE RUTH MILAGROS | CAHUATA LAVILLA YOLMY MILAGROS |
 
 ![](https://github.com/R03Milagros/ADE_EleccionesPresidenciales2021/blob/main/IMAGENES/imagen.png)
 
 ## ÍNDICE 
------------------
 - [INTRODUCCIÓN](#INTRODUCCIÓN)
 - [ONPE](#ONPE)
 - [OBTENCIÓN DE DATOS](#OBTENCIÓN-DE-DATOS)
@@ -29,7 +28,7 @@ Por lo tanto, tendremos en cuenta los siguientes aspectos para nuestro llevar a 
 -----------------
 Es un organismo electoral constitucional autónomo que forma parte del Estado, es la autoridad máxima que se encarga de organizar y ejecutar distintos procesos electorales, de referéndum y otros tipos de consulta popular.
 
-Acciones
+##### Acciones
 -----------------
 - Organiza procesos electorales, de referéndum y otros tipos de consulta popular.
 - Elabora todo el material electoral necesario para que se lleve a cabo un proceso electoral y lo distribuimos a las Oficinas.
@@ -71,7 +70,7 @@ De acuerdo con el artículo 17° de la Ley Orgánica de Elecciones, para ser ele
 -	Votos Nulos
 -	Votos Inpugnados
 
-RESULTADOS POR DEPARTAMENTOS EN EL PERÚ IZQUIERDA
+##### RESULTADOS POR DEPARTAMENTOS EN EL PERÚ IZQUIERDA
 -----------------
 
 #### RESUMEN DE LOS DATOS EN LA SEGUNDA VUELTA ELECTORAL
@@ -83,12 +82,19 @@ Aunque el artículo 18° de la Ley Orgánica de Elecciones se establece que la s
 -	Votos Nulos
 -	Votos Inpugnados
 
-RESULTADOS POR DEPARTAMENTOS
+#####  RESULTADOS POR DEPARTAMENTOS
 -----------------
 
 
 #### ESTUDIO SEGÚN SECTORES
 -----------------
+
+#####  PROPUESTAS GENERALES ECONÓMICA
+-----------------
+| FUERZA POPULAR | PERÚ LIBRE |
+| :---         |     :---:      |
+| * Obras dirigidas por el Estado con participación privada * Empleo rápido y formalización a medio plazo  | * Agricultura e industria * Sindicalismo *contrato a plazo fijo indeterminado  |
+
 
 
 #### CONCLUSIONES
