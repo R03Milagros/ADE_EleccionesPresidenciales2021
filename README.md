@@ -86,11 +86,26 @@ Aunque el artículo 18° de la Ley Orgánica de Elecciones se establece que la s
 -----------------
 
 #####  PROPUESTAS GENERALES ECONÓMICA
+
 | FUERZA POPULAR | PERÚ LIBRE |
 | :---         |     :---:      |
-| Obras dirigidas por el Estado con participación privada  |  Agricultura e industria y Sindicalismo | 
-| Empleo rápido y formalización a medio plazo  | contrato a plazo fijo indeterminado  |
+| Obras dirigidas por el Estado con participación privada |  Agricultura e industria y Sindicalismo | 
+| Empleo rápido y formalización a medio plazo | Contrato a plazo fijo indeterminado |
 
+#####  PROPUESTAS GENERALES EDUCACIÓN
+
+| FUERZA POPULAR | PERÚ LIBRE |
+| :---         |     :---:      |
+| Complementar Aprendo en Casa con iniciativas privadas y comunitarias | Incremento de sueldos al magisterio activo y pensionista | 
+| Soporte y acompañamiento a docentes | Ingreso libre a la universidad peruana |
+
+#####  PROPUESTAS GENERALES SOCIAL
+
+| FUERZA POPULAR | PERÚ LIBRE |
+| :---         |     :---:      |
+| Debate sobre igualdad de género y reducción de desigualdades | Despenalizar el aborto sin que sea usado como anticonceptivo | 
+| Articular programas sociales | Garantizar la alimentación de la madre y del niño |
+| Planes urbanos que permitan el manejo de residuos urbanos e industriales | Zonificación económica ecológica |
 
 
 #### CONCLUSIONES
